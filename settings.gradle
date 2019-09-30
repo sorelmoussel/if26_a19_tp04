@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='if26_a19_tp04'
